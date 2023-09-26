@@ -1,25 +1,4 @@
 
-You just released the advanced tasks of this project. Have fun!
-0x05. Python - Exceptions
-Python
- By: Guillaume
- Weight: 1
- Ongoing second chance project - started Sep 25, 2023 6:00 AM, must end by Sep 28, 2023 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 0.0/84 mandatory & 0.0/51 optional
-Altogether:  0.0%
-Mandatory: 0.0%
-Optional: 0.0%
-Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
-Resources
-Read or watch:
-
-Errors and Exceptions
-Learn to Program 11 Static & Exception Handling (starting at minute 7)
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
 General
 Why Python programming is awesome
 What’s the difference between errors and exceptions
