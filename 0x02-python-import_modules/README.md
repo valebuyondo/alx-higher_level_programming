@@ -1,20 +1,4 @@
 
-You have a captain's log due before 2023-09-10 (in about 20 hours)! Log it now!
-We're moving to Discord!
-In a few days, we will be leaving Slack in favor of Discord 🎉
-Click here for more information
-0x02. Python - import & modules
-Python
- By: Guillaume
- Weight: 1
- Ongoing second chance project - started Sep 7, 2023 6:00 AM, must end by Sep 14, 2023 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 0.0/85 mandatory & 0.0/58 optional
-Altogether:  0.0%
-Mandatory: 0.0%
-Optional: 0.0%
-Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
 Resources
 Read or watch:
 
