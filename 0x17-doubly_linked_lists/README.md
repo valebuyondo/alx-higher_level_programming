@@ -1,7 +1,4 @@
 
-You have a captain's log due before 2023-09-17 (in 1 day)! Log it now!
-We're moving to Discord!
-In a few days, we will be leaving Slack in favor of Discord 🎉
 Click here for more information
 0x17. C - Doubly linked lists
 C
